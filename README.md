@@ -1,2 +1,2 @@
-# my-website
-For learning purposes
+# My Website
+This is just for learning purposes
